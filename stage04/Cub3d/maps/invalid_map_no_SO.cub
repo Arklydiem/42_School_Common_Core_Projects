@@ -1,0 +1,14 @@
+NO ./maps/textures/wall_plants_light.xpm
+WE ./maps/textures/wall_plants_light_thunder_1.xpm
+EA ./maps/textures/wall_plants_shadow_thunder_1.xpm
+
+C 200,30,50
+F 220,100,12
+
+1111111111
+1000000001
+1000001001
+1000N00001
+1000001001
+1000000001
+1111111111

@@ -1,0 +1,12 @@
+{
+	"files.associations": {
+		"*.cub": "c",
+		"cub3d.h": "c",
+		"cub3d_bonus.h": "c",
+		"colors_bonus.h": "c",
+		"libft.h": "c",
+		"get_next_line.h": "c",
+		"unistd.h": "c",
+		"stdlib.h": "c"
+	}
+}

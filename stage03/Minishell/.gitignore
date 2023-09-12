@@ -1,0 +1,12 @@
+*.o
+minishell
+a.out
+*.a
+.vscode/settings.json
+minishell_tester/
+outfiles/*
+test_files/*
+.vscode/*
+ft_minishell_test-main
+vsupp
+.nfs*

@@ -1,0 +1,14 @@
+[Server HELP]
+NICK <nickName>
+USER <userName> <hostName> <serverName> <realName>
+JOIN <channel1,channel2,...> <password1,password2,...>
+MODE <channel> <[+|-]c|i|k|l|o|t>
+TOPIC <channel> | TOPIC <channel> <new topic>
+KICK <channel1,channel2,...> <user1,user2,...>
+INVITE <channel1,channel2,...> <user1,user2,...>
+PART <channel1,channel2,...>
+PRIVMSG <user1|channel1,user2|channel2,...> <your message>
+[Bot HELP]
+help
+topic<3
+coua
